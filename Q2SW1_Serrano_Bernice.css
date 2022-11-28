@@ -1,0 +1,16 @@
+
+table, th, td {
+  border: 0px solid;
+   width: 40%;
+   text-align: center;
+
+}
+h1{
+	text-align: center;
+	font-family: Lucida Calligraphy;
+}
+p {
+	background-color: rosybrown;
+	font-family: arial;
+
+}
